@@ -1,0 +1,14 @@
+{
+  "name": "jacob-bot",
+  "version": "1.0.0",
+  "description": "I was created to obey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GxmingWithCxllum",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
