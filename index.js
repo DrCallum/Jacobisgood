@@ -38,7 +38,7 @@ bot.on('guildMemberAdd', member => {
 
 bot.on ("guildMemberRemove", member => {
     const channel = member.guild.channels.cache.find(channel => channel.name === "👋｜welcome"); if(!channel) return;
-                  channel.send(`Thanks for tuning in ${member}, It was fun while it lasted!`)
+                  channel.send(`Thanks for tuning in ${member}, It was fun while it lasted, hope to see you again soon!`)
 });
 
 bot.on("message", async message => {
