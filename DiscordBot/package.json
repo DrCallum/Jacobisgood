@@ -1,5 +1,5 @@
 {
-  "name": "jacobisgood",
+  "name": "jacob-bot",
   "version": "1.0.0",
   "description": "I was created to obey",
   "main": "index.js",
@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.5.1"
-  }
+  },
+  "devDependencies": {}
 }
