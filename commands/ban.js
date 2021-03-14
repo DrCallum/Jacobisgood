@@ -23,6 +23,6 @@ module.exports.config = {
     name: "ban",
     description: "Bans a Users",
     usage: "-ban",
-    accessableby: "Surgeons",
+    accessableby: "🔻Admin",
     aliases: []
 }
